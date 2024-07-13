@@ -22,3 +22,30 @@ Foodie is a food delivery website developed using React.js for the frontend and 
    ```bash
    git clone https://github.com/DB4558/foodie.git
    cd foodie
+   ## Installation
+
+### Prerequisites
+
+- Java Development Kit (JDK)
+- MySQL
+- Maven
+
+### Backend Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/DB4558/backend-springboot.git
+   cd backend-springboot
+2. **Configure the database in src/main/resources/application.properties:****
+
+   ```bash
+
+      spring.datasource.url=jdbc:mysql://localhost:3306/backend-springboot
+      spring.datasource.username=root
+      spring.datasource.password=yourpassword
+
+3. **Build and run the backend:**
+
+      ```bash
+
+          mvn clean install
