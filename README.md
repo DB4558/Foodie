@@ -45,6 +45,26 @@ Foodie is a food delivery website developed using React.js for the frontend and 
       spring.datasource.password=yourpassword
 
 3. **Build and run the backend:**
+4. **Frontend Setup**
+
+    Clone the repository:
+
+    ```bash
+
+      git clone https://github.com/DB4558/frontend-react.git
+      cd frontend-react
+
+5. **Install dependencies and run the frontend:**
+
+   ```bash
+
+       npm install
+       npm start
+
+6.**Usage**
+
+    Open the browser and navigate to http://localhost:3000.
+    
 
       ```bash
 
