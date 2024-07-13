@@ -72,6 +72,4 @@ Foodie is a food delivery website developed using React.js for the frontend and 
     Open the browser and navigate to http://localhost:3000.
     
 
-      ```bash
-
-          mvn clean install
+    
